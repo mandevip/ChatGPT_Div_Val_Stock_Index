@@ -1,7 +1,6 @@
 
-**I. Description and Summary of the ChatGPT Div Val Stock Index
-****A. Motivation:
-**
+I. Description and Summary of the ChatGPT Div Val Stock Index
+A. Motivation:
 
 The ChatGPT Div Val Stock Index is a sophisticated scoring system designed to aid small individual investors in identifying dividend value diversified stocks for their investment portfolios. By amalgamating fundamental financial metrics, this system assesses the allure of a stock based on dividend yield, valuation, profitability, and financial robustness. Its core purpose is to provide a user-friendly yet potent tool that empowers investors to make well-informed decisions while autonomously managing their portfolios.
 
